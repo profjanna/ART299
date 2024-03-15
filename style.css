@@ -1,43 +1,6 @@
-body{ 
-  background-color: black;
+.srsly{
+  color:white;
 }
-.info{
-  width: 33%;
-  margin-left: 10%; 
-  margin-top: 10%;
-}
-.notinfo{
-    width: 53%;
-  margin-left: 50%; 
-  margin-top: 5%;
-}
-h1 {
-  color: DarkOrange;
-  font-family: Arial;
-}
-h2{
-  color: BlanchedAlmond;
-  font-family: Trebuchet MS;
-}
-p {
-  color: DarkSalmon;
-  font-family: Trattatello, fantasy;
-}
-dt,dd,li {
-  color:red;
-}
-.nav{
-  background-color: white;
-  width: 43%;
-  height: 25%;
-}
-.nav a:hover{
+.srsly:hover{
   color:pink;
-  background-color: black;
 }
-
-.bunny{
-  margin-left: 10%;
-  margin-top: 30%;
-}
-
